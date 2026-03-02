@@ -1,0 +1,40 @@
+{
+  "version": "2.0.0",
+  "options": { "cwd": "${workspaceFolder}" },
+  "tasks": [
+    {
+      "label": "Generate solution",
+      "type": "shell",
+      "command": "python3 generate.py ${file}",
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": [],
+      "presentation": { "reveal": "silent", "panel": "shared" }
+    },
+    {
+      "label": "Build (Codeforces-like)",
+      "type": "shell",
+      "command": "mkdir -p build && g++ -Wall -Wextra -Wconversion -O2 -std=c++23 -DONLINE_JUDGE -o build/${fileBasenameNoExtension} solutions/${fileBasenameNoExtension}.cpp",
+      "problemMatcher": ["$gcc"],
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "shared" }
+    },
+    {
+      "label": "Build (Debug)",
+      "type": "shell",
+      "command": "mkdir -p build && g++ -Wall -Wextra -Wconversion -g -O0 -std=c++23 -o build/${fileBasenameNoExtension} solutions/${fileBasenameNoExtension}.cpp",
+      "problemMatcher": ["$gcc"],
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" }
+    },
+    {
+      "label": "Run (input.txt)",
+      "type": "shell",
+      "command": "./build/${fileBasenameNoExtension} < input.txt > output.txt",
+      "dependsOn": ["Generate solution", "Build (Codeforces-like)"],
+      "dependsOrder": "sequence",
+      "problemMatcher": [],
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" }
+    }
+  ]
+}
