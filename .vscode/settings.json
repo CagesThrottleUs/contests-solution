@@ -1,0 +1,8 @@
+{
+  "conventionalCommits.scopes": [
+    "atcoder",
+    "codechef",
+    "codeforces",
+    "leetcode"
+  ]
+}
