@@ -16,13 +16,22 @@ def extract_problem_code(problem_content: str) -> str:
     """Extract only the implementation from problem file."""
     lines = problem_content.split('\n')
     result: list[str] = []
-    
+    skip_block_comment = False
+
     for line in lines:
         # Skip problem comment and includes already in template
         if line.startswith('// Problem:'):
             continue
+        # Skip copyright/license block comment (/* ... */)
+        stripped = line.strip()
+        if stripped.startswith('/*'):
+            skip_block_comment = True
+        if skip_block_comment:
+            if '*/' in line:
+                skip_block_comment = False
+            continue
         result.append(line)
-    
+
     return '\n'.join(result).strip()
 
 
