@@ -6,8 +6,5 @@
     "leetcode"
   ],
   "copyrighter.author": "CagesThrottleUs",
-  "copyrighter.license": "MIT",
-  "clangd.arguments": [
-    "-std=c++23"
-  ]
+  "copyrighter.license": "MIT"
 }
