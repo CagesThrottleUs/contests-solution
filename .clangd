@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - -Wall
+    - -Wextra
+    - -Wconversion
+    - -O2
+    - -std=c++23
+    - -Werror
