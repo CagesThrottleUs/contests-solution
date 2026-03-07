@@ -11,3 +11,4 @@ Checks: >
   performance-*,
   portability-*,
   readability-*,
+  -misc-use-internal-linkage,
