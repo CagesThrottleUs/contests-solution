@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.1.0](https://github.com/contests-solution/CagesThrottleUs/compare/35e681464e399fef98650646e72d234dab86bc67..1.1.0) - 2026-03-07
+#### Features
+- (**atcoder**) track implementation of ABC448 contest - ([3b4dc87](https://github.com/contests-solution/CagesThrottleUs/commit/3b4dc879068886e6fa14c364da150dddad5f2621)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Miscellaneous Chores
+- update Cog settings to push tags as well - ([35e6814](https://github.com/contests-solution/CagesThrottleUs/commit/35e681464e399fef98650646e72d234dab86bc67)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.0.0](https://github.com/contests-solution/CagesThrottleUs/compare/e49446c1f289477e38741fa3dc0c200ec5bc9ae3..1.0.0) - 2026-03-07
 #### Features
 - (**atcoder**) track all currently implemented solutions of atcoder - ([160c38f](https://github.com/contests-solution/CagesThrottleUs/commit/160c38ffc7f912d105172d7f63eee53fc6f67e24)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
