@@ -31,59 +31,40 @@ constexpr std::int64_t MOD{10007};
 constexpr std::int64_t MAX_POW{31};
 constexpr std::int64_t BASE{10};
 
-auto binpow(std::int64_t base,  // NOLINT(bugprone-easily-swappable-parameters)
-            std::int64_t pow,   // NOLINT(bugprone-easily-swappable-parameters)
-            std::int64_t modulo) -> std::int64_t {
-  base %= modulo;
-  std::int64_t result = 1;
-  while (pow > 0) {
-    if ((pow & 1) == 1) {  // NOLINT(hicpp-signed-bitwise)
-      result = result * base % modulo;
-    }
-    base = base * base % modulo;
-    pow >>= 1;  // NOLINT(hicpp-signed-bitwise)
-  }
-  return result;
-}
-
-auto precompute_repunits(std::int64_t divisor)
-    -> std::array<std::int64_t, MAX_POW> {
+struct Precomputed {
   std::array<std::int64_t, MAX_POW> repunits{};
-  std::array<std::int64_t, MAX_POW> pow10{};  // pw10[i] = 10^(2^i) mod divisor
+  std::array<std::int64_t, MAX_POW> pow10{};  // pow10[i] = 10^(2^i) mod M
+};
 
-  pow10[0] = BASE % divisor;
-  repunits[0] = 1;
-
-  for (std::int64_t i = 1; i < MAX_POW; i++) {
-    pow10.at(static_cast<std::size_t>(i)) =
-        pow10.at(static_cast<std::size_t>(i - 1)) *
-        pow10.at(static_cast<std::size_t>(i - 1)) % divisor;  // square previous
-    repunits.at(static_cast<std::size_t>(i)) =
-        repunits.at(static_cast<std::size_t>(i - 1)) *
-        (pow10.at(static_cast<std::size_t>(i - 1)) + 1) % divisor;
+auto precompute(std::int64_t divisor) -> Precomputed {
+  Precomputed out{};
+  out.pow10[0] = BASE % divisor;
+  out.repunits[0] = 1;
+  for (std::size_t i = 1; i < static_cast<std::size_t>(MAX_POW); i++) {
+    std::int64_t last_pow = out.pow10.at(i - 1);
+    out.pow10.at(i) = last_pow * last_pow % divisor;
+    out.repunits.at(i) =
+        out.repunits.at(i - 1) * (out.pow10.at(i - 1) + 1) % divisor;
   }
-  return repunits;
+  return out;
 }
 
-auto calc_rem_for_repunit(std::int64_t repunit_len,
-                          std::array<std::int64_t, MAX_POW>& repunits,
-                          std::int64_t divisor) -> std::int64_t {
-  // divide repunit_len into powers of 2
-  std::int64_t num_till_now{0};
-  std::int64_t curr_pow{0};
-  std::int64_t result{0};
-  while (repunit_len > 0) {
-    if ((repunit_len & 1) == 1) {  // NOLINT(hicpp-signed-bitwise)
-      result = (result + repunits.at(static_cast<std::size_t>(curr_pow)) *
-                             binpow(BASE, num_till_now, divisor)) %
-               divisor;
-      num_till_now =
-          num_till_now | (1 << curr_pow);  // NOLINT(hicpp-signed-bitwise)
+// Returns { 10^len mod M, repunit(len) mod M } in one pass over bits of len.
+inline void power10_and_repunit(std::int64_t len,
+                                const Precomputed& precomputes,
+                                std::int64_t divisor, std::int64_t& out_pow10,
+                                std::int64_t& out_repunit) {
+  out_pow10 = 1;
+  out_repunit = 0;
+  for (std::size_t i = 0; len > 0;
+       i++, len >>= 1) {   // NOLINT(hicpp-signed-bitwise)
+    if ((len & 1) == 0) {  // NOLINT(hicpp-signed-bitwise)
+      continue;
     }
-    curr_pow++;
-    repunit_len >>= 1;  // NOLINT(hicpp-signed-bitwise)
+    out_repunit =
+        (out_repunit + precomputes.repunits.at(i) * out_pow10) % divisor;
+    out_pow10 = out_pow10 * precomputes.pow10.at(i) % divisor;
   }
-  return result;
 }
 
 void solve() {
@@ -91,16 +72,18 @@ void solve() {
   std::int64_t divisor{};
   std::cin >> seq_len >> divisor;
 
-  auto repunits = precompute_repunits(MOD * divisor);
+  const std::int64_t big_divisors = MOD * divisor;
+  auto precomputes = precompute(big_divisors);
 
   std::int64_t remainder{0};
   for (std::int64_t i = 0; i < seq_len; i++) {
     std::int64_t digit{};
     std::int64_t cnt{};
     std::cin >> digit >> cnt;
-    remainder = (remainder * binpow(BASE, cnt, MOD * divisor) +
-                 digit * calc_rem_for_repunit(cnt, repunits, MOD * divisor)) %
-                (MOD * divisor);
+    std::int64_t pow10{};
+    std::int64_t rep{};
+    power10_and_repunit(cnt, precomputes, big_divisors, pow10, rep);
+    remainder = (remainder * pow10 + digit * rep) % big_divisors;
   }
 
   std::cout << remainder / divisor << "\n";
