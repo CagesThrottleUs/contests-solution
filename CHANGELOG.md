@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.1.1](https://github.com/contests-solution/CagesThrottleUs/compare/09f1d2681fb2898f6ae8b63d90a7eb50706b7155..1.1.1) - 2026-03-07
+#### Features
+- (**atcoder**) implement abc448E as well - ([09f1d26](https://github.com/contests-solution/CagesThrottleUs/commit/09f1d2681fb2898f6ae8b63d90a7eb50706b7155)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Build system
+- ensure both gcc and clang are covered in template - ([d27dcc4](https://github.com/contests-solution/CagesThrottleUs/commit/d27dcc4811b39f4743b9a94982c1f226fc4a8f36)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.1.0](https://github.com/contests-solution/CagesThrottleUs/compare/35e681464e399fef98650646e72d234dab86bc67..1.1.0) - 2026-03-07
 #### Features
 - (**atcoder**) track implementation of ABC448 contest - ([3b4dc87](https://github.com/contests-solution/CagesThrottleUs/commit/3b4dc879068886e6fa14c364da150dddad5f2621)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
