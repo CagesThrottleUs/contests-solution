@@ -24,10 +24,10 @@
 
 #include <iostream>
 
-#ifdef __GNUC__
-#ifndef __clang__
+#if defined(__GNUC__) && !defined(__clang__)
 #pragma GCC optimize("O3", "unroll-loops")
-#endif
+#elif defined(__clang__)
+#pragma clang optimize on
 #endif
 
 void speedup() {
