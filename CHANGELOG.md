@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.2.0](https://github.com/contests-solution/CagesThrottleUs/compare/b9f1f337d7ae9ef8db69b93479ad05529fbadf8c..1.2.0) - 2026-03-08
+#### Features
+- (**leetcode**) add leetcode weekly 492 solutions - ([3652d7b](https://github.com/contests-solution/CagesThrottleUs/commit/3652d7b9ffdb2c8e76052da526f8acd809c027a4)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Bug Fixes
+- (**atcoder**) further optimise abc448E - ([b9f1f33](https://github.com/contests-solution/CagesThrottleUs/commit/b9f1f337d7ae9ef8db69b93479ad05529fbadf8c)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.1.1](https://github.com/contests-solution/CagesThrottleUs/compare/09f1d2681fb2898f6ae8b63d90a7eb50706b7155..1.1.1) - 2026-03-07
 #### Features
 - (**atcoder**) implement abc448E as well - ([09f1d26](https://github.com/contests-solution/CagesThrottleUs/commit/09f1d2681fb2898f6ae8b63d90a7eb50706b7155)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
