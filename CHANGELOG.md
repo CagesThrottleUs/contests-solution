@@ -2,6 +2,19 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.3.0](https://github.com/contests-solution/CagesThrottleUs/compare/0ac395ae25cf20535332afc0950f2bdb03272490..1.3.0) - 2026-03-09
+#### Features
+- (**codeforces**) add 1828B - ([aa88973](https://github.com/contests-solution/CagesThrottleUs/commit/aa889734d09d50eba83894279358480971ee5fd0)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1837B - ([a8459e6](https://github.com/contests-solution/CagesThrottleUs/commit/a8459e6d04b5ec3e0eab9c90525f999d3d2ca94f)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1850D - ([99f4b3c](https://github.com/contests-solution/CagesThrottleUs/commit/99f4b3cf2a742a462284d214f8ec0d66f2af971f)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1855B - ([c5ce9df](https://github.com/contests-solution/CagesThrottleUs/commit/c5ce9df5b4ff50ace6ad170fc8c2b8fc2ae6c532)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1869A - ([1c9f0c8](https://github.com/contests-solution/CagesThrottleUs/commit/1c9f0c8baaed8e1b81c94596afb88756cd3000e9)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1875A - ([0ac395a](https://github.com/contests-solution/CagesThrottleUs/commit/0ac395ae25cf20535332afc0950f2bdb03272490)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Miscellaneous Chores
+- update Tab Size to be equal to Google C++ Style Guide - ([c5bea28](https://github.com/contests-solution/CagesThrottleUs/commit/c5bea28a84d71bb0ff80baf82e686aeb547fb9d2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.2.0](https://github.com/contests-solution/CagesThrottleUs/compare/b9f1f337d7ae9ef8db69b93479ad05529fbadf8c..1.2.0) - 2026-03-08
 #### Features
 - (**leetcode**) add leetcode weekly 492 solutions - ([3652d7b](https://github.com/contests-solution/CagesThrottleUs/commit/3652d7b9ffdb2c8e76052da526f8acd809c027a4)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
