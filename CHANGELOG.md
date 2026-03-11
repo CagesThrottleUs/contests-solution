@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.5.0](https://github.com/contests-solution/CagesThrottleUs/compare/cddb1b8b5c6967774085674a51fe08bbf113ba22..1.5.0) - 2026-03-11
+#### Features
+- (**codeforces**) add 1666D - ([c04bc9a](https://github.com/contests-solution/CagesThrottleUs/commit/c04bc9a2f8bdeeb18c920b8958398ecb18d6a3aa)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1675B - ([6495514](https://github.com/contests-solution/CagesThrottleUs/commit/649551413d974935eefe5b943ddf6998b3c4f8a7)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1679A - ([19a2541](https://github.com/contests-solution/CagesThrottleUs/commit/19a2541822e1ac6f237c9447c863f3ee2332a1b7)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1696B - ([cddb1b8](https://github.com/contests-solution/CagesThrottleUs/commit/cddb1b8b5c6967774085674a51fe08bbf113ba22)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.4.0](https://github.com/contests-solution/CagesThrottleUs/compare/b7bab279f2fa52c875db92c2dbf274c003125122..1.4.0) - 2026-03-10
 #### Features
 - (**codeforces**) add 1726A - ([005e5b0](https://github.com/contests-solution/CagesThrottleUs/commit/005e5b0bbfc712d295cd2537fb85a3310cc7866a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
