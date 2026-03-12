@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.7.0](https://github.com/contests-solution/CagesThrottleUs/compare/d7801b825b5cb0dbf74d49f192ec3008c07e5d19..1.7.0) - 2026-03-12
+#### Features
+- (**codeforces**) add 1624B - ([d5e64a1](https://github.com/contests-solution/CagesThrottleUs/commit/d5e64a1c6b169054b0de1d7c1c48505321c5ec42)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1665B - ([d7801b8](https://github.com/contests-solution/CagesThrottleUs/commit/d7801b825b5cb0dbf74d49f192ec3008c07e5d19)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.6.0](https://github.com/contests-solution/CagesThrottleUs/compare/8252c6b3fdccbe56a30f54d2bf66267f3c79b33a..1.6.0) - 2026-03-11
 #### Features
 - (**codechef**) add STARTERS229 code - ([8252c6b](https://github.com/contests-solution/CagesThrottleUs/commit/8252c6b3fdccbe56a30f54d2bf66267f3c79b33a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
