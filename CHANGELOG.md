@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.8.0](https://github.com/contests-solution/CagesThrottleUs/compare/c297561c70624c8f2483d96de8b854cd462c8761..1.8.0) - 2026-03-15
+#### Features
+- (**atcoder**) add solutions for ABC449 - ([c297561](https://github.com/contests-solution/CagesThrottleUs/commit/c297561c70624c8f2483d96de8b854cd462c8761)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add solutions for weekly 493 - ([98a3ec2](https://github.com/contests-solution/CagesThrottleUs/commit/98a3ec29da88060ac62086e43ab5ea8863dee8e0)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add solutions for Biweekly 178 - ([549e08f](https://github.com/contests-solution/CagesThrottleUs/commit/549e08f572eb9abf4acd53d6ae4a3d68afd40341)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.7.0](https://github.com/contests-solution/CagesThrottleUs/compare/d7801b825b5cb0dbf74d49f192ec3008c07e5d19..1.7.0) - 2026-03-12
 #### Features
 - (**codeforces**) add 1624B - ([d5e64a1](https://github.com/contests-solution/CagesThrottleUs/commit/d5e64a1c6b169054b0de1d7c1c48505321c5ec42)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
