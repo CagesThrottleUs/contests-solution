@@ -2,6 +2,19 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.9.0](https://github.com/contests-solution/CagesThrottleUs/compare/65cc226896e96145e390e6cf8b5f1be970a4f6b7..1.9.0) - 2026-03-16
+#### Features
+- (**codeforces**) add 1537B - ([e05f202](https://github.com/contests-solution/CagesThrottleUs/commit/e05f2024ac3f253bfb89d35723589a8513ace37e)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1543A - ([f0cd4f4](https://github.com/contests-solution/CagesThrottleUs/commit/f0cd4f4576395d9d7e98947a128f7d2dfe308dd1)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add solution for Educational 188 - ([7435558](https://github.com/contests-solution/CagesThrottleUs/commit/743555889cc93b070ac899e77f2305d45e800637)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1559A - ([8f55255](https://github.com/contests-solution/CagesThrottleUs/commit/8f5525591a8237c63ce6ca09f8747b8c55078df2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1582B - ([abc64f1](https://github.com/contests-solution/CagesThrottleUs/commit/abc64f15742cee748fec55795b907cdc492f14c4)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1593B - ([c979c5b](https://github.com/contests-solution/CagesThrottleUs/commit/c979c5b18e0f03bdc21b74485c78afc17adb9d4e)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1606A - ([67b2a02](https://github.com/contests-solution/CagesThrottleUs/commit/67b2a02953d5a5fb09337b38b0a6abe41949b032)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1607B - ([65cc226](https://github.com/contests-solution/CagesThrottleUs/commit/65cc226896e96145e390e6cf8b5f1be970a4f6b7)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.8.0](https://github.com/contests-solution/CagesThrottleUs/compare/c297561c70624c8f2483d96de8b854cd462c8761..1.8.0) - 2026-03-15
 #### Features
 - (**atcoder**) add solutions for ABC449 - ([c297561](https://github.com/contests-solution/CagesThrottleUs/commit/c297561c70624c8f2483d96de8b854cd462c8761)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
