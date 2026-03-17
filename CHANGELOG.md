@@ -2,6 +2,17 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.10.0](https://github.com/contests-solution/CagesThrottleUs/compare/d3c164f0430897adad7d73c4fbee9fee0ca65298..1.10.0) - 2026-03-17
+#### Features
+- (**codeforces**) add 1374B - ([3c85265](https://github.com/contests-solution/CagesThrottleUs/commit/3c8526507ed94ecfe762a3e3e19a0995ffef1013)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1373B - ([59a9796](https://github.com/contests-solution/CagesThrottleUs/commit/59a9796c3a4c3361bea8f109753807bfaa1f900c)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1380A - ([04c83ea](https://github.com/contests-solution/CagesThrottleUs/commit/04c83ea2c9909e946b11f55810792416537237e2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1440B - ([754e717](https://github.com/contests-solution/CagesThrottleUs/commit/754e717fe797b87d019ef85424eaf2e5bccc0100)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1471A - ([7314d20](https://github.com/contests-solution/CagesThrottleUs/commit/7314d20e5e15364318b2b12c8fb1c2c40b86e0fe)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1475A - ([d3c164f](https://github.com/contests-solution/CagesThrottleUs/commit/d3c164f0430897adad7d73c4fbee9fee0ca65298)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.9.0](https://github.com/contests-solution/CagesThrottleUs/compare/65cc226896e96145e390e6cf8b5f1be970a4f6b7..1.9.0) - 2026-03-16
 #### Features
 - (**codeforces**) add 1537B - ([e05f202](https://github.com/contests-solution/CagesThrottleUs/commit/e05f2024ac3f253bfb89d35723589a8513ace37e)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
