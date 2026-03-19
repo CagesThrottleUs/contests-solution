@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.11.0](https://github.com/contests-solution/CagesThrottleUs/compare/d576c7b1829601cdd5039aaaf2d96b24f1934cac..1.11.0) - 2026-03-19
+#### Features
+- (**codechef**) add starters 230 solution - ([8b4ea90](https://github.com/contests-solution/CagesThrottleUs/commit/8b4ea905a173a5982628309a7e9c788ae356ce56)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1913B - ([e9492db](https://github.com/contests-solution/CagesThrottleUs/commit/e9492db1922db2eca5806c1ce92684288ac3b713)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Style
+- format template.cpp according to google style - ([d576c7b](https://github.com/contests-solution/CagesThrottleUs/commit/d576c7b1829601cdd5039aaaf2d96b24f1934cac)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.10.0](https://github.com/contests-solution/CagesThrottleUs/compare/d3c164f0430897adad7d73c4fbee9fee0ca65298..1.10.0) - 2026-03-17
 #### Features
 - (**codeforces**) add 1374B - ([3c85265](https://github.com/contests-solution/CagesThrottleUs/commit/3c8526507ed94ecfe762a3e3e19a0995ffef1013)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
