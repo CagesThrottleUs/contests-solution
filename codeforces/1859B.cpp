@@ -78,8 +78,8 @@ void solve() {
 
     // std::cout << "DEBUG: min_idx: " << min_idx << "\n";
     // std::cout << "DEBUG: min_vals[min_idx]: "
-    //           << min_vals[static_cast<std::size_t>(min_idx)].first << " "
-    //           << min_vals[static_cast<std::size_t>(min_idx)].second << "\n";
+    //           << min_vals[min_idx].first << " "
+    //           << min_vals[min_idx].second << "\n";
 
     std::int64_t beauty = 0;
     for (std::size_t i = 0; i < num_arrs; i++) {
