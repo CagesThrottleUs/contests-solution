@@ -3,5 +3,6 @@ build/
 
 input.txt
 output.txt
+expected.txt
 
 .DS_Store
