@@ -29,7 +29,7 @@
     {
       "label": "Run (input.txt)",
       "type": "shell",
-      "command": "./build/${fileBasenameNoExtension} < input.txt > output.txt && ([ ! -f expected.txt ] || diff -u expected.txt output.txt)",
+      "command": "./build/${fileBasenameNoExtension} < input.txt > output.txt && ([ ! -f expected.txt ] || diff -u expected.txt output.txt | delta)",
       "dependsOn": ["Generate solution", "Build (Codeforces-like)"],
       "dependsOrder": "sequence",
       "problemMatcher": [],
