@@ -2,6 +2,32 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.12.0](https://github.com/contests-solution/CagesThrottleUs/compare/2f88b8096a93ef428058967480cee96ea2a98359..1.12.0) - 2026-03-22
+#### Features
+- (**atcoder**) add solutions for ABC 450 - ([4a1891d](https://github.com/contests-solution/CagesThrottleUs/commit/4a1891d2e422e0b32d42c3809cf661744fb45e75)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1715B - ([5739c6b](https://github.com/contests-solution/CagesThrottleUs/commit/5739c6b3b0163172aa85cb2a9b7554a98c46c1b1)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1725B - ([fb43cc4](https://github.com/contests-solution/CagesThrottleUs/commit/fb43cc44239da0f279dd0924eb149a180ca93206)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1744C - ([4d70833](https://github.com/contests-solution/CagesThrottleUs/commit/4d708334c03f013861b11b52b9bd160207cb742b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1765M - ([375db1d](https://github.com/contests-solution/CagesThrottleUs/commit/375db1df86fccdceeec2e32d80d4e7e0cfa09b22)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1791D - ([fd5f092](https://github.com/contests-solution/CagesThrottleUs/commit/fd5f092fcf37897c1fd33903787caedde95a819a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1831B - ([fae757a](https://github.com/contests-solution/CagesThrottleUs/commit/fae757afe9c2d9eb0de5de445bcf34ece3d27ec2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1840C - ([05d5541](https://github.com/contests-solution/CagesThrottleUs/commit/05d55410515fccd21ce235d1b914fc51bf86b13b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1849B - ([46be1e0](https://github.com/contests-solution/CagesThrottleUs/commit/46be1e04f410d56e0b0e56ddfe6c771c1dc8bb1a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1859B - ([8a89e96](https://github.com/contests-solution/CagesThrottleUs/commit/8a89e969487f47239d11519288ef71575f5ba27b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1876A - ([3f2fd6b](https://github.com/contests-solution/CagesThrottleUs/commit/3f2fd6b084495501a628968943a620960d20fddb)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1883C - ([2f88b80](https://github.com/contests-solution/CagesThrottleUs/commit/2f88b8096a93ef428058967480cee96ea2a98359)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add weekly solution - ([86e6ca1](https://github.com/contests-solution/CagesThrottleUs/commit/86e6ca140d7c2ed4e8c99b26a5b2bdd99b1e57b4)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Build system
+- show diffs against between expected and actual output - ([4a61098](https://github.com/contests-solution/CagesThrottleUs/commit/4a61098a06da5e03a40fc976f6e3d405ae3d499f)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Miscellaneous Chores
+- add problem.txt to gitignore - ([526a9b3](https://github.com/contests-solution/CagesThrottleUs/commit/526a9b3ad1a884808aadd95b5d5fa509deacffa2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- use git-delta for coloured diff - ([c15a6d2](https://github.com/contests-solution/CagesThrottleUs/commit/c15a6d26cda7cd8e000e9d9ff2e518124c8ce4d2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- add expected text file to gitignore - ([61e6801](https://github.com/contests-solution/CagesThrottleUs/commit/61e6801d00cf0ab25aba7557d6b46d8b429a8233)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Style
+- (**codeforces**) remove static_cast for already size_t in 1859B - ([ba8699e](https://github.com/contests-solution/CagesThrottleUs/commit/ba8699e77afbff84715d43b1b92a7e50b7388556)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.11.0](https://github.com/contests-solution/CagesThrottleUs/compare/d576c7b1829601cdd5039aaaf2d96b24f1934cac..1.11.0) - 2026-03-19
 #### Features
 - (**codechef**) add starters 230 solution - ([8b4ea90](https://github.com/contests-solution/CagesThrottleUs/commit/8b4ea905a173a5982628309a7e9c788ae356ce56)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
