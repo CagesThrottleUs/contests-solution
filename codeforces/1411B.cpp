@@ -24,21 +24,21 @@
 
 #include <cstdint>
 #include <iostream>
-#include <numeric>
+// #include <numeric>
 
 constexpr std::uint64_t BASE = 10;
 
 inline auto is_fair(std::uint64_t num) -> bool {
-  std::uint64_t lcm{1};
+  // std::uint64_t lcm{1};
   auto original = num;
   while (num > 0) {
     std::uint64_t digit = num % BASE;
-    if (digit != 0) {
-      lcm = std::lcm(lcm, digit);
+    if (digit != 0 and original % digit != 0) {
+      return false;
     }
     num /= BASE;
   }
-  return original % lcm == 0;
+  return true;
 }
 
 void solve() {
