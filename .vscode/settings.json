@@ -9,6 +9,13 @@
   "copyrighter.license": "MIT",
   "[cpp]": {
     "editor.rulers": [80],
-    "editor.tabSize": 2,
-  }
+    "editor.tabSize": 2
+  },
+  "cSpell.userWords": [
+    "codeforces",
+    "optimise",
+    "atcoder",
+    "codechef",
+    "leetcode"
+  ]
 }
