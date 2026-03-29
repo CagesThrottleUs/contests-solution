@@ -2,6 +2,62 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.13.0](https://github.com/contests-solution/CagesThrottleUs/compare/67eafaddabca3f6f9c6e6bc72c7cd8cfc14989c8..1.13.0) - 2026-03-29
+#### Features
+- (**atcoder**) add solutions for ABC 451 - ([687eb29](https://github.com/contests-solution/CagesThrottleUs/commit/687eb29f48ba4cdf9e50049039479a5b53b5a6b2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codechef**) add solution for STARTERS 231 - ([210b871](https://github.com/contests-solution/CagesThrottleUs/commit/210b87143030ae8e865789b552689fd7b0da78ec)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add solution for Codeforces Round 1088 - ([5192b27](https://github.com/contests-solution/CagesThrottleUs/commit/5192b27ac00ff8d546456bced1959fef014964ba)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1155A - Reverse a Substring - ([2a9105a](https://github.com/contests-solution/CagesThrottleUs/commit/2a9105a9425e864906891be5926526a30c789a0a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1312B - Bogosort - ([9da0c29](https://github.com/contests-solution/CagesThrottleUs/commit/9da0c294430f861bcc3de602aa52ba4dc85aea10)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1362A - Johnny and Ancient Computer - ([4cb423c](https://github.com/contests-solution/CagesThrottleUs/commit/4cb423c62b3d6c9213f0b0bb48f071f513a2ee73)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1374C - Move Brackets - ([4df71a3](https://github.com/contests-solution/CagesThrottleUs/commit/4df71a38ae39e4ba74cae5693c5bf8394996a010)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1411B - Fair Numbers - ([7defc8d](https://github.com/contests-solution/CagesThrottleUs/commit/7defc8dd0c06947c4acd7e628838a4de4b96171d)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1418A - Buying Torches - ([160489f](https://github.com/contests-solution/CagesThrottleUs/commit/160489f353af142762fe9a3dcad1eed339307500)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1438B - Valerii Against Everyone - ([b9594ac](https://github.com/contests-solution/CagesThrottleUs/commit/b9594ac4cd3be13add6f1a21b35f61aac9fa1176)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1447B - Numbers Box - ([9ad29d1](https://github.com/contests-solution/CagesThrottleUs/commit/9ad29d1937a47807f3ead872bda5d4c505f996ca)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1474B - Different Divisors - ([7c5f212](https://github.com/contests-solution/CagesThrottleUs/commit/7c5f21240fe68b5208625af700bbe6ef29d184cd)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1485A - Add and Divide - ([d1fdb13](https://github.com/contests-solution/CagesThrottleUs/commit/d1fdb134f6e5ec7360e80da962a9d07000664d99)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1506C - Double-ended Strings - ([88ed617](https://github.com/contests-solution/CagesThrottleUs/commit/88ed617cf844d485c5626bceeed38be29b5f7429)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1567B - ([a866df4](https://github.com/contests-solution/CagesThrottleUs/commit/a866df4b492ca0bc019f7182faa1c01f5244f083)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1614B - ([8a91c51](https://github.com/contests-solution/CagesThrottleUs/commit/8a91c51c091b4cf73e1b2c5abd2ddd854e38acc0)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1620B - ([a34e18c](https://github.com/contests-solution/CagesThrottleUs/commit/a34e18ce076a08aeb01e8e4a1128c0dfdcb6f490)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1632B - ([a7dbaef](https://github.com/contests-solution/CagesThrottleUs/commit/a7dbaef97bfe7d211d447b1bf91e1e89c7d82809)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1659A - ([a1e2dff](https://github.com/contests-solution/CagesThrottleUs/commit/a1e2dff96f6539cf9929f41af26a7baf2538be81)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1690D - ([f802334](https://github.com/contests-solution/CagesThrottleUs/commit/f802334d437f8fa58bd145521f15359652d0d719)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1691B - ([a72f037](https://github.com/contests-solution/CagesThrottleUs/commit/a72f0373531fb3721ae7e893d2710306a203429b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1704B - ([67eafad](https://github.com/contests-solution/CagesThrottleUs/commit/67eafaddabca3f6f9c6e6bc72c7cd8cfc14989c8)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add solutions for Weekly Contest 495 - ([aa83246](https://github.com/contests-solution/CagesThrottleUs/commit/aa8324656a4ed03b15a5c16049ff7ff458999456)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add Biweekly-179 solution - ([421d9ff](https://github.com/contests-solution/CagesThrottleUs/commit/421d9ff63f75bbf3e8f8b0c7754185240cf8dd13)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 7. Reverse Integer - ([c270f8a](https://github.com/contests-solution/CagesThrottleUs/commit/c270f8a13021090a236b2fbb747b3130e09b39fc)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 207. Course Schedule - ([59153b9](https://github.com/contests-solution/CagesThrottleUs/commit/59153b93488b7eb0afd193c11ddb4723f9971ba2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 3. Longest Substring Without Repeating Characters - ([d9903c2](https://github.com/contests-solution/CagesThrottleUs/commit/d9903c212f55bffd3cc95b3bca7a355c0a78078e)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 238. Product of Array Except Self - ([d9c602e](https://github.com/contests-solution/CagesThrottleUs/commit/d9c602ed42234fbd68a7d7eb719da1fc3ee379bf)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 206. Reverse Linked List - ([09fcc6c](https://github.com/contests-solution/CagesThrottleUs/commit/09fcc6c8db592045e60050fb633aa55203102849)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 20. Valid Parentheses - ([52a4ff7](https://github.com/contests-solution/CagesThrottleUs/commit/52a4ff75ae45b02a1381fbeea4fa3723f1a52ddb)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 362. Design Hit Counter - ([45bfa84](https://github.com/contests-solution/CagesThrottleUs/commit/45bfa84525691c5fe316f69b1be08af16f05cb8e)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 347. Top K Frequent Elements - ([b00ff23](https://github.com/contests-solution/CagesThrottleUs/commit/b00ff23631b6f8df48a436fa7033eb95450c3e2e)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 36. Valid Sudoku - ([fb42ee9](https://github.com/contests-solution/CagesThrottleUs/commit/fb42ee9f2e74b4476bb000b19bf3621c51c0c306)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 14. Longest Common Prefix - ([80ab539](https://github.com/contests-solution/CagesThrottleUs/commit/80ab539cd3e2930d40104f126084f585ce45a9a0)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 189 - Rotate Array - ([c59f04b](https://github.com/contests-solution/CagesThrottleUs/commit/c59f04b4925a8f176418bd04813d37d6cd58471a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 121 - Best Time to Buy and Sell Stock - ([689f722](https://github.com/contests-solution/CagesThrottleUs/commit/689f722db384d6acfd3da53961184c382587e3c6)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 49 - Group Anagrams - ([7ed859f](https://github.com/contests-solution/CagesThrottleUs/commit/7ed859f06db16199ea1fed47e5beb3928a1471ec)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 56 - Merge Intervals - ([d34f109](https://github.com/contests-solution/CagesThrottleUs/commit/d34f10993edb5adb07594baf5c8c5064562ed0bc)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 200 - Number of Islands - ([c3f5667](https://github.com/contests-solution/CagesThrottleUs/commit/c3f56670e2c792b67b00535de59d66a1632b5329)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add TwoSum solution - ([3d36709](https://github.com/contests-solution/CagesThrottleUs/commit/3d36709aadfff5ddb486e20a3e29935f1d8d6033)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add LRUCache 145 solution - ([bf545d9](https://github.com/contests-solution/CagesThrottleUs/commit/bf545d9221e49624f71d7bd22bd5c266f019e876)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Performance Improvements
+- (**codeforces**) optimise 1411B - Fair Numbers with early exit - ([a841005](https://github.com/contests-solution/CagesThrottleUs/commit/a8410050f32d4228f43ca1bcdbaa95fb6093489f)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Documentation
+- add CLAUDE.md for AI - ([f516964](https://github.com/contests-solution/CagesThrottleUs/commit/f5169640b9affb4e1ce03df6de0f125f4962a3d0)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Miscellaneous Chores
+- add hicpp to spell-check - ([081aec0](https://github.com/contests-solution/CagesThrottleUs/commit/081aec02090217f7095634a9be7b2a9ee9468519)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- add more words to cspell dict - ([717be5e](https://github.com/contests-solution/CagesThrottleUs/commit/717be5ef4baa4aa7954b34e208e3228d5845cfd3)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- add spellcheck for commit scope - ([1c5752f](https://github.com/contests-solution/CagesThrottleUs/commit/1c5752f98fcb74d7b77621abc718de3994f38cc6)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Style
+- (**leetcode**) align 3883. Count Non Decreasing Arrays With Given Digit Sums - ([7e474e7](https://github.com/contests-solution/CagesThrottleUs/commit/7e474e7c5d1c53ce8a8d6401c75366fbc193088f)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.12.0](https://github.com/contests-solution/CagesThrottleUs/compare/2f88b8096a93ef428058967480cee96ea2a98359..1.12.0) - 2026-03-22
 #### Features
 - (**atcoder**) add solutions for ABC 450 - ([4a1891d](https://github.com/contests-solution/CagesThrottleUs/commit/4a1891d2e422e0b32d42c3809cf661744fb45e75)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
