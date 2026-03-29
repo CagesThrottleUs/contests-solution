@@ -19,6 +19,7 @@
     "leetcode",
     "NOLINTNEXTLINE",
     "NOLINT",
-    "bugprone"
+    "bugprone",
+    "hicpp"
   ]
 }
