@@ -16,6 +16,9 @@
     "optimise",
     "atcoder",
     "codechef",
-    "leetcode"
+    "leetcode",
+    "NOLINTNEXTLINE",
+    "NOLINT",
+    "bugprone"
   ]
 }
