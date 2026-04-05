@@ -55,3 +55,4 @@ Checks: >
 - Use `std::size_t` for sizes/indices to avoid `-Wconversion` warnings
 - Use `static_cast<std::int64_t>(...)` when converting size types to signed
 - Use `0UZ` literal for `std::size_t` zero in C++23 contexts
+- NEVER EVER make a constant do kMyConstant as its name - use MY_CONSTANT instead
