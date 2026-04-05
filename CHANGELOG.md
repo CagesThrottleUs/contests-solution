@@ -2,6 +2,27 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.14.0](https://github.com/contests-solution/CagesThrottleUs/compare/7dce57b3e7201d553164802a0725e4e534fe1338..1.14.0) - 2026-04-05
+#### Features
+- (**codechef**) add solutions for STARTERS 232 - ([7b26d78](https://github.com/contests-solution/CagesThrottleUs/commit/7b26d7848ba1322694bbd0d2cf180ec8eeee9017)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1891B - Deja Vu - ([bb19966](https://github.com/contests-solution/CagesThrottleUs/commit/bb1996698f1554abdf48c866f6bde76f71a91755)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1899B - 250 Thousand Tons of TNT - ([550407a](https://github.com/contests-solution/CagesThrottleUs/commit/550407ae8ee55871df295c188ea6a9a57fb9371b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1899C - Yarik and Array - ([fb2cde6](https://github.com/contests-solution/CagesThrottleUs/commit/fb2cde69b0de9d5432f1b6960af1771961546e46)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1904B - Collecting Game - ([50d49c9](https://github.com/contests-solution/CagesThrottleUs/commit/50d49c95a4bfd729cf5bfca5646606405fb4af48)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1914C - Quests - ([1d7dc9a](https://github.com/contests-solution/CagesThrottleUs/commit/1d7dc9a76d923d0db2bb36cefd81ce8177d26bf8)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1917B - Erase First or Second Letter - ([924d5d0](https://github.com/contests-solution/CagesThrottleUs/commit/924d5d0a070d2a68a57746ee39e54a2e552f3c0c)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 215. Kth Largest Element in an Array - ([8cceaf0](https://github.com/contests-solution/CagesThrottleUs/commit/8cceaf0f3d3e14205256b0d2bdd452d842c0952a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 23. Merge k Sorted Lists - ([15b1d51](https://github.com/contests-solution/CagesThrottleUs/commit/15b1d514b3152d456bd85cb1f18ca7beee0d1da6)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 210. Course Schedule II - ([97202bf](https://github.com/contests-solution/CagesThrottleUs/commit/97202bf9bed35db208ba6239d56e9d678e464a83)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 125. Valid Palindrome - ([a00bbce](https://github.com/contests-solution/CagesThrottleUs/commit/a00bbceaec816c5e1fef877e72777d47af70a3e4)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 151. Reverse Words in a String - ([6263cb1](https://github.com/contests-solution/CagesThrottleUs/commit/6263cb161f79539815a9b6ace524b9abbd35fc97)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 53. Maximum subarray - ([2207096](https://github.com/contests-solution/CagesThrottleUs/commit/2207096978602eb44835c675a043d706be0712e7)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 48. Rotate Image - ([7dce57b](https://github.com/contests-solution/CagesThrottleUs/commit/7dce57b3e7201d553164802a0725e4e534fe1338)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Miscellaneous Chores
+- add subarray to spell checker - ([0695c82](https://github.com/contests-solution/CagesThrottleUs/commit/0695c82a2ecbdbc60fae191772dce7334cee38b9)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.13.0](https://github.com/contests-solution/CagesThrottleUs/compare/67eafaddabca3f6f9c6e6bc72c7cd8cfc14989c8..1.13.0) - 2026-03-29
 #### Features
 - (**atcoder**) add solutions for ABC 451 - ([687eb29](https://github.com/contests-solution/CagesThrottleUs/commit/687eb29f48ba4cdf9e50049039479a5b53b5a6b2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
