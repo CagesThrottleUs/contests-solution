@@ -21,6 +21,7 @@
     "NOLINT",
     "bugprone",
     "hicpp",
-    "subarray"
+    "subarray",
+    "teleporters"
   ]
 }
