@@ -22,17 +22,11 @@
  * IN THE SOFTWARE.
  */
 
+#include <algorithm>
 #include <cstddef>
 #include <cstdint>
 #include <iostream>
-#include <iterator>
-#include <map>
-
-void print_map(const std::map<std::uint64_t, std::uint64_t> &map) {
-  for (auto itr : map) {
-    std::cout << itr.first << "->" << itr.second << "\n";
-  }
-}
+#include <vector>
 
 void solve() {
   int tests{};
@@ -42,29 +36,29 @@ void solve() {
     std::size_t size{};
     std::cin >> size;
 
-    std::map<std::uint64_t, std::uint64_t> key_count;
+    std::vector<std::uint64_t> key_count;
     for (std::size_t i{0}; i < size; i++) {
       std::uint64_t key{};
       std::cin >> key;
-      key_count[key]++;
+      key_count.push_back(key);
     }
 
-    // print_map(key_count);
-
-    if (key_count.begin()->first != 1) {
+    std::ranges::sort(key_count);
+    
+    if (key_count.front() != 1) {
       std::cout << "NO\n";
       continue;
     }
 
-    std::uint64_t sum{key_count.begin()->second};
+    std::uint64_t sum{key_count.front()};
     bool impossible{false};
     for (auto itr = std::next(key_count.begin()); itr != key_count.end();
          ++itr) {
-      if (sum < itr->first) {
+      if (sum < *itr) {
         impossible = true;
         break;
       }
-      sum += itr->second * itr->first;
+      sum += *itr;
     }
 
     std::cout << (impossible ? "NO\n" : "YES\n");
