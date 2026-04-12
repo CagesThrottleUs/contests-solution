@@ -2,6 +2,46 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.15.0](https://github.com/contests-solution/CagesThrottleUs/compare/a78ba1dc16b3f06244e3fb5dac1852726587b63f..1.15.0) - 2026-04-12
+#### Features
+- (**codeforces**) add 1791G1 - Teleporters (Easy Version) - ([ccbca50](https://github.com/contests-solution/CagesThrottleUs/commit/ccbca50a449a9f42e1042ce916173b57eff48cd2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1797B - Li Hua and Pattern - ([3812d70](https://github.com/contests-solution/CagesThrottleUs/commit/3812d70d8624f1357b83e635315c7c3dfdd3f8b3)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1807G2 - Subsequence Addition (Hard Version) - ([21b7497](https://github.com/contests-solution/CagesThrottleUs/commit/21b749713880e378b673c896d3d8721d473395ed)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1820B - JoJo's Incredible Adventures - ([ee36ce3](https://github.com/contests-solution/CagesThrottleUs/commit/ee36ce35eafb6458f39abd91490f7a0aefb6f229)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add Codeforces Round 1091 - ([d29aa24](https://github.com/contests-solution/CagesThrottleUs/commit/d29aa24f6c089afb2687de1805367bef7715fc2b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1821B - Sort the Subarray - ([5899e65](https://github.com/contests-solution/CagesThrottleUs/commit/5899e65fa2e555b2fd77a0ce1e2fa10ed1d47371)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1826B - Lunatic Never Content - ([5386cd1](https://github.com/contests-solution/CagesThrottleUs/commit/5386cd1f3ee9b86d421892d3595cbf197a5ca0fe)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1827A - Counting Orders - ([09ea3f9](https://github.com/contests-solution/CagesThrottleUs/commit/09ea3f90b2c9f792c8b0aadc084ee82d1b4e103a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1832B - Maximum Sum - ([f2ef040](https://github.com/contests-solution/CagesThrottleUs/commit/f2ef040ec3134824b6e88fcb6a2b23cb63d52f98)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1842B - Tenzing and Books - ([a4b1a3b](https://github.com/contests-solution/CagesThrottleUs/commit/a4b1a3bc06d3580098582a4db229dad52e35a7e1)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1850E - Cardboard for Pictures - ([38290cb](https://github.com/contests-solution/CagesThrottleUs/commit/38290cb7dc05529a5554e56229f970c70e9bee1b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1869B - 2D Traveling - ([6195147](https://github.com/contests-solution/CagesThrottleUs/commit/61951478a48b2a5b32859b01d9e349ff7c26991b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1873E - Building an Aquarium - ([a78ba1d](https://github.com/contests-solution/CagesThrottleUs/commit/a78ba1dc16b3f06244e3fb5dac1852726587b63f)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 165. Compare Version Numbers - ([3e51427](https://github.com/contests-solution/CagesThrottleUs/commit/3e514275c32185f1c949ef865c3819f29586c6ad)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 981. Time Based Key-Value Store - ([5420658](https://github.com/contests-solution/CagesThrottleUs/commit/5420658febc3a7221df49d88648987934db32d4a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 560. Subarray Sum Equals K - ([37cd6ad](https://github.com/contests-solution/CagesThrottleUs/commit/37cd6ad72a7dee1275ba8f39aa57bfc7c1dd8a51)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 21. Merge Two Sorted Lists - ([c69fd9b](https://github.com/contests-solution/CagesThrottleUs/commit/c69fd9b5d95dcbb4975229d4569a60eed0b52e00)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 191. Number of 1 Bits - ([d428ec4](https://github.com/contests-solution/CagesThrottleUs/commit/d428ec4b09f6918a531bf96873669ea306b3648b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 190. Reverse Bits - ([7ecf0dc](https://github.com/contests-solution/CagesThrottleUs/commit/7ecf0dcac051e36f3147bfa5200bc8aa55f7fb12)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 4. Median of Two Sorted Arrays - ([6d0d419](https://github.com/contests-solution/CagesThrottleUs/commit/6d0d419ab59e390ec51943b8b8d7bfad0acce769)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 236. Lowest Common Ancestor of a Binary Tree - ([392c20e](https://github.com/contests-solution/CagesThrottleUs/commit/392c20ed78430705c45e86f95c2e12baa24062dc)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 122. Best Time to Buy and Sell Stock II - ([528ff77](https://github.com/contests-solution/CagesThrottleUs/commit/528ff77c4ffa7a186ab52f9b3f8fe377936ce25c)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 253. Meeting Rooms II - ([a287a4b](https://github.com/contests-solution/CagesThrottleUs/commit/a287a4b0c8f0146e0357b2ebc1ca85962fefaf66)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 42. Trapping Rain Water - ([edccc24](https://github.com/contests-solution/CagesThrottleUs/commit/edccc243d3cdd2d8fd5baf201fc5a91f5d51a198)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 54. Spiral Matrix - ([651262e](https://github.com/contests-solution/CagesThrottleUs/commit/651262e975c598f26dd49c29f25b971813cb64d3)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Bug Fixes
+- remove dead LOCAL code as it was not used - ([5eae06d](https://github.com/contests-solution/CagesThrottleUs/commit/5eae06db25fefa7322ee5179aa05991278c18454)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Performance Improvements
+- (**codeforces**) use vector with sort instead of map in 1807G2 - ([37b7a38](https://github.com/contests-solution/CagesThrottleUs/commit/37b7a38c4a49f6f969b5ddfffbe759bfe5edfcd9)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Miscellaneous Chores
+- (**codeforces**) rename 1791G -> 1791G1 as per problem id - ([7adc0de](https://github.com/contests-solution/CagesThrottleUs/commit/7adc0deee0bd107e2bcf46c7d203c29fed63a32a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- add teleporters to spell checker - ([f64035a](https://github.com/contests-solution/CagesThrottleUs/commit/f64035a668c817760d05f87a94611693868d7b60)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- add solutions directory to gitignore - ([75a1132](https://github.com/contests-solution/CagesThrottleUs/commit/75a1132a413f72c38ce321d048b2c3932f9daa16)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- remove all solutions - ([0ad40c3](https://github.com/contests-solution/CagesThrottleUs/commit/0ad40c37ba9fd981e73ed1f6a378c2fed86ac9f2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- tell claude to never name constant kMyConstant - ([ccba9d8](https://github.com/contests-solution/CagesThrottleUs/commit/ccba9d886a56c7217fb1522b82bb8ee9d1308688)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.14.0](https://github.com/contests-solution/CagesThrottleUs/compare/7dce57b3e7201d553164802a0725e4e534fe1338..1.14.0) - 2026-04-05
 #### Features
 - (**codechef**) add solutions for STARTERS 232 - ([7b26d78](https://github.com/contests-solution/CagesThrottleUs/commit/7b26d7848ba1322694bbd0d2cf180ec8eeee9017)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
