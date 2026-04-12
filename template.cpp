@@ -40,10 +40,6 @@ void speedup() {
 void solve();
 
 auto main() -> int {
-#ifdef LOCAL
-  freopen("input.txt", "r", stdin);
-  freopen("output.txt", "w", stdout);
-#endif
   speedup();
   solve();
   return 0;
