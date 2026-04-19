@@ -2,6 +2,30 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.16.0](https://github.com/contests-solution/CagesThrottleUs/compare/b010ab09149b677027588149fe0dc9cfa2f19d8d..1.16.0) - 2026-04-19
+#### Features
+- (**atcoder**) add solutions for AtCoder Beginner Contest 454 - ([1576413](https://github.com/contests-solution/CagesThrottleUs/commit/157641318e6c9940937bc160195f4b1da88d14e7)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codechef**) add partial solutions of Starters 234 - ([5b5f69e](https://github.com/contests-solution/CagesThrottleUs/commit/5b5f69e44143b862ac9757a9e9f4df088039bd69)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1511C - Yet Another Card Deck - ([a508cc5](https://github.com/contests-solution/CagesThrottleUs/commit/a508cc535dbc2c9e8b11dea5dbf32fa75a1b0e9c)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 	1610B - Kalindrome Array - ([c0045da](https://github.com/contests-solution/CagesThrottleUs/commit/c0045da45a5643ee184a0cd2e3533bae015d57cf)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1618C - Paint the Array - ([c6811e0](https://github.com/contests-solution/CagesThrottleUs/commit/c6811e0d3c705323235866bfff4b0810b3049ceb)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1631B - Fun with Even Subarrays - ([c934e24](https://github.com/contests-solution/CagesThrottleUs/commit/c934e24dd4ce44ab4eb8325f2f8bba04b62a92b2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- ![BREAKING](https://img.shields.io/badge/BREAKING-red) (**codeforces**) add 1656B - Subtract Operation - ([762590f](https://github.com/contests-solution/CagesThrottleUs/commit/762590f0342a11a2603e18651b9bd2fa30354217)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1669F - Eating Candies - ([16b8cea](https://github.com/contests-solution/CagesThrottleUs/commit/16b8cea3f6eafeb5ceb99f182dbab36d6c9d977c)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1673B - A Perfectly Balanced String? - ([8b352fb](https://github.com/contests-solution/CagesThrottleUs/commit/8b352fb5e55f3ebb6666ebbc1cf2662ac25059f2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1682B - AND Sorting - ([a5cf07c](https://github.com/contests-solution/CagesThrottleUs/commit/a5cf07c3e42679de08a47e93e56b9c4de5af4d6c)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1708B - Difference of GCDs - ([909488e](https://github.com/contests-solution/CagesThrottleUs/commit/909488e2075b01680e07ffb21951d6f469eb0458)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add solutions for Codeforces Round 1093 (Div. 2) - ([5ae4efd](https://github.com/contests-solution/CagesThrottleUs/commit/5ae4efd877d0059ad4c1eebad4e7349199ade888)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1731B - Kill Demodogs - ([e4e8d69](https://github.com/contests-solution/CagesThrottleUs/commit/e4e8d6971fa9cb1b634bf9f43df082681a2c6321)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1742D - Coprime - ([52ae205](https://github.com/contests-solution/CagesThrottleUs/commit/52ae205f82e1162c42da2cb1d0111a63802a18f5)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1780B - GCD Partition - ([36ea7c2](https://github.com/contests-solution/CagesThrottleUs/commit/36ea7c29f833981cb20dc051bb23c092ab999afa)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1791E - Negatives and Positives - ([b010ab0](https://github.com/contests-solution/CagesThrottleUs/commit/b010ab09149b677027588149fe0dc9cfa2f19d8d)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add solutions for Weekly 498 - ([431ab59](https://github.com/contests-solution/CagesThrottleUs/commit/431ab592698b8ac1194c97aa5b071dc9a9dc42d2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Miscellaneous Chores
+- add Subarrays to spell-check - ([f62043a](https://github.com/contests-solution/CagesThrottleUs/commit/f62043a85f3ed9819d075e8c871679ac8e99098a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.15.0](https://github.com/contests-solution/CagesThrottleUs/compare/a78ba1dc16b3f06244e3fb5dac1852726587b63f..1.15.0) - 2026-04-12
 #### Features
 - (**codeforces**) add 1791G1 - Teleporters (Easy Version) - ([ccbca50](https://github.com/contests-solution/CagesThrottleUs/commit/ccbca50a449a9f42e1042ce916173b57eff48cd2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
