@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.17.0](https://github.com/contests-solution/CagesThrottleUs/compare/c6caca37195329162782afedfea289ea055e2356..1.17.0) - 2026-04-28
+#### Features
+- (**codeforces**) add solution for 1914D - Three Activities - ([093a72c](https://github.com/contests-solution/CagesThrottleUs/commit/093a72cba5ad2836de200704f471fb1b0becab8d)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add solutions for 2225 contest - ([c6caca3](https://github.com/contests-solution/CagesThrottleUs/commit/c6caca37195329162782afedfea289ea055e2356)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.16.0](https://github.com/contests-solution/CagesThrottleUs/compare/b010ab09149b677027588149fe0dc9cfa2f19d8d..1.16.0) - 2026-04-19
 #### Features
 - (**atcoder**) add solutions for AtCoder Beginner Contest 454 - ([1576413](https://github.com/contests-solution/CagesThrottleUs/commit/157641318e6c9940937bc160195f4b1da88d14e7)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
