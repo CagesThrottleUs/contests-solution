@@ -28,7 +28,7 @@ constexpr int BASE = 10;
 
 class Solution {
  public:
-  auto reverse(int num) -> int {
+  static auto reverse(int num) -> int {
     int ans{0};
     bool is_negative{num < 0};
 
