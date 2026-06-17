@@ -5,8 +5,6 @@
     "codeforces",
     "leetcode"
   ],
-  "copyrighter.author": "CagesThrottleUs",
-  "copyrighter.license": "MIT",
   "[cpp]": {
     "editor.rulers": [80],
     "editor.tabSize": 2
