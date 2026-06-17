@@ -7,7 +7,9 @@
   ],
   "[cpp]": {
     "editor.rulers": [80],
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
   },
   "cSpell.userWords": [
     "codeforces",
