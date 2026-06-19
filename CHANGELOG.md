@@ -2,6 +2,34 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.18.0](https://github.com/contests-solution/CagesThrottleUs/compare/a09d303c53feaecaede4abc67f76b05372d13c73..1.18.0) - 2026-06-19
+#### Features
+- (**codeforces**) add 1729D - Friends and the Restaurant - ([7fc33a5](https://github.com/contests-solution/CagesThrottleUs/commit/7fc33a5afce5d3ef873fdf69cc406ea1ccf0bc5a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1734C - Removing Smallest Multiples - ([15ef887](https://github.com/contests-solution/CagesThrottleUs/commit/15ef8879ffebab7cb7424af26c4cd715a8a71d38)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1742E - Scuza - ([e826479](https://github.com/contests-solution/CagesThrottleUs/commit/e826479929ffa980667c03a9b6af51c32cf2d718)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1790D - Matryoshkas - ([7588798](https://github.com/contests-solution/CagesThrottleUs/commit/7588798c46ae6486eb251c7da0daf61106f80e7f)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1793C - Dora and Search - ([581c771](https://github.com/contests-solution/CagesThrottleUs/commit/581c771d31d3be52aac4a0c5c66218d124f465c9)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1808B - Playing in a Casino - ([0e5f00f](https://github.com/contests-solution/CagesThrottleUs/commit/0e5f00f65759db96252b984e6a9ad41d3c39f51c)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1832C - Contrast Value - ([2a7cf40](https://github.com/contests-solution/CagesThrottleUs/commit/2a7cf40e679acdaedcda843b0658bcc36679e8a7)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add solution for 1848B - Vika and the Bridge - ([41eaa04](https://github.com/contests-solution/CagesThrottleUs/commit/41eaa047a259f1658f31c3b5e48c75b95a2c4e05)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1857C - Assembly via Minimums - ([1bb065c](https://github.com/contests-solution/CagesThrottleUs/commit/1bb065cec9b821ff4dcbea757bf44d3fc669b55f)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1872D - Plus Minus Permutation - ([4657061](https://github.com/contests-solution/CagesThrottleUs/commit/465706168c607f18be2d48fb3ebf8df7d458bae8)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1909B - Make Almost Equal With Mod - ([a09d303](https://github.com/contests-solution/CagesThrottleUs/commit/a09d303c53feaecaede4abc67f76b05372d13c73)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 1557. Minimum Number of Vertices to Reach All Nodes - ([8991636](https://github.com/contests-solution/CagesThrottleUs/commit/8991636db978052c762a2327d4a388b146d33b39)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 997. Find the Town Judge - ([9d14181](https://github.com/contests-solution/CagesThrottleUs/commit/9d141811d7641fcd16cc32cb4f049730f3abd397)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 864 - shortest path to get all keys - ([ad26a09](https://github.com/contests-solution/CagesThrottleUs/commit/ad26a093d4bef63d32fbe788d50e01e2df598e6e)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 387 - Find First Unique character - ([7d54a7f](https://github.com/contests-solution/CagesThrottleUs/commit/7d54a7f03adbd03165dbcb0c241c4f0e484823bd)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 344 - Reverse Strings - ([0798cc6](https://github.com/contests-solution/CagesThrottleUs/commit/0798cc6a2910ae6561c1e0d293804a7bb64a2a49)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add solution for Weekly 500 - ([ebd3a09](https://github.com/contests-solution/CagesThrottleUs/commit/ebd3a099bbae8059d7a89fb647bb4b9cf3c73568)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Refactoring
+- (**leetcode**) make 7 - Reverse Integer method as static - ([841aba8](https://github.com/contests-solution/CagesThrottleUs/commit/841aba8b4cebe7d1665936b605bbfa2ab9436f0c)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Miscellaneous Chores
+- set C++ standard to C++23 - ([02d95ac](https://github.com/contests-solution/CagesThrottleUs/commit/02d95ac01beeee76f2b6bd9700d99549306755e0)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- add formatting options - ([4aa16e1](https://github.com/contests-solution/CagesThrottleUs/commit/4aa16e1230d379f6afe41b8e8cbb7b4222fc5031)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- remove copyrighter plugin - ([3aa1328](https://github.com/contests-solution/CagesThrottleUs/commit/3aa13283506794d3861a6f8a24eb65b16c0e0601)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.17.0](https://github.com/contests-solution/CagesThrottleUs/compare/c6caca37195329162782afedfea289ea055e2356..1.17.0) - 2026-04-28
 #### Features
 - (**codeforces**) add solution for 1914D - Three Activities - ([093a72c](https://github.com/contests-solution/CagesThrottleUs/commit/093a72cba5ad2836de200704f471fb1b0becab8d)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
