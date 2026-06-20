@@ -26,7 +26,7 @@
 
 #if defined(__GNUC__) && !defined(__clang__)
 #pragma GCC optimize("O3", "unroll-loops")
-#elif defined(__clang__)
+#elifdef __clang__
 #pragma clang optimize on
 #endif
 
