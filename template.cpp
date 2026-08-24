@@ -37,7 +37,7 @@ void speedup() {
 }
 
 // Forward declaration - to be implemented in problem file
-void solve();
+void solve() noexcept;
 
 auto main() -> int {
   speedup();
