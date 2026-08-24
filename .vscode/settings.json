@@ -26,5 +26,9 @@
     "Subarrays"
   ],
   "C_Cpp.default.cppStandard": "c++23",
-  "C_Cpp.default.compilerPath": "/opt/homebrew/opt/llvm/bin/clang++"
+  "C_Cpp.default.compilerPath": "/opt/homebrew/opt/llvm/bin/clang++",
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "clangd.fallbackFlags": [
+    "-std=c++23"
+  ]
 }
