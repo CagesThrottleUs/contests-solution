@@ -2,6 +2,58 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.19.0](https://github.com/contests-solution/CagesThrottleUs/compare/b5326d834c0fc1ec8ee02bdb03adb93dd7db9fdb..1.19.0) - 2026-08-30
+#### Features
+- (**codechef**) add solutions of STARTERS 253 - ([b0f56ac](https://github.com/contests-solution/CagesThrottleUs/commit/b0f56ac1911dd52fc299b84f2f37c7d20c00b71b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add Codeforces Round 1118 (Div. 2) - ([ad49f06](https://github.com/contests-solution/CagesThrottleUs/commit/ad49f06807517df0012025ec591810b2d23f64c7)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1303A - Erasing Zeroes - ([9a9695c](https://github.com/contests-solution/CagesThrottleUs/commit/9a9695ce58efc6e091be202558c34bd6dbbbb0de)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1433A - Boring Apartments - ([c2ab1e3](https://github.com/contests-solution/CagesThrottleUs/commit/c2ab1e316bbdff87dcdcfa1fb9e1694f7621faa3)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 492A - Vanya and Cubes - ([a8ac50d](https://github.com/contests-solution/CagesThrottleUs/commit/a8ac50db19bd3942424be3b430226e9b0d94f037)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1097A - Gennady and a Card Game - ([361242a](https://github.com/contests-solution/CagesThrottleUs/commit/361242a158da014f107fc1c68de19a14276868b4)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 702A - Maximum Increase - ([8461540](https://github.com/contests-solution/CagesThrottleUs/commit/84615409ab726886943165b1e3c4ddd24095252d)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1368A - C+= - ([f234874](https://github.com/contests-solution/CagesThrottleUs/commit/f23487480f006157ef4ad6d06d5fe75689412cec)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 339A - Helpful Maths - ([54206ef](https://github.com/contests-solution/CagesThrottleUs/commit/54206efbda59a4b0cc543bfe3cd079bde25ad160)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 281A - Word Capitalization - ([a0d8fe2](https://github.com/contests-solution/CagesThrottleUs/commit/a0d8fe2faef8c6395741767195302edaa801d0bc)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 236A - Boy or Girl - ([36a0aaf](https://github.com/contests-solution/CagesThrottleUs/commit/36a0aaf7628d9fd96c7f3166a523ffa07d6c4e47)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 791A - Bear and Big Brother - ([210943e](https://github.com/contests-solution/CagesThrottleUs/commit/210943e1d330582eeda1202c16742cb4eda968fc)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 546A - Soldier and Bananas - ([1c785c3](https://github.com/contests-solution/CagesThrottleUs/commit/1c785c32a15fd69bfc4240295e83af8e5d34ae59)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 977A - Wrong Subtraction - ([3ed284a](https://github.com/contests-solution/CagesThrottleUs/commit/3ed284a6af3a34c831ed0ec4f090c1712433be09)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 116A - Tram - ([a1465a9](https://github.com/contests-solution/CagesThrottleUs/commit/a1465a98e33b485a485781ad162728f23a2fa722)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 110A - Nearly Lucky Number - ([f8092c2](https://github.com/contests-solution/CagesThrottleUs/commit/f8092c2af32a3f4248c4c95e478e7c718a27f829)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 136A - Presents - ([55af689](https://github.com/contests-solution/CagesThrottleUs/commit/55af6890ab9b86aa91850ed945b2bdbcb02dc5a4)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1030A - In Search of an Easy Problem - ([ea3f79b](https://github.com/contests-solution/CagesThrottleUs/commit/ea3f79b0c69859efc80410a160f8fda28f578753)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 144A - Arrival of the General - ([53a0263](https://github.com/contests-solution/CagesThrottleUs/commit/53a0263aba1c1eabc351a4a0bc7b6a737bd7e085)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 785A - Anton and Polyhedrons - ([dba8cef](https://github.com/contests-solution/CagesThrottleUs/commit/dba8cefc28b80275f0848e0ac7e9958ca87fa123)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 510A - Fox And Snake - ([71541e8](https://github.com/contests-solution/CagesThrottleUs/commit/71541e89ddb63397391d39cee3af7fd60bad19d0)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1352A - Sum of Round Numbers - ([cd909d8](https://github.com/contests-solution/CagesThrottleUs/commit/cd909d83957fd129287950c961a23d9c32bed54b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 723A - The New Year: Meeting Friends - ([71ebd4f](https://github.com/contests-solution/CagesThrottleUs/commit/71ebd4f3d4b61eaefa93f60dc75547f0611ddbc5)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 151A - Soft Drinking - ([556ce2e](https://github.com/contests-solution/CagesThrottleUs/commit/556ce2e7c91bffaabb1f3d33d419502f0dd97909)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 263A - Beautiful Matrix - ([eaabb8d](https://github.com/contests-solution/CagesThrottleUs/commit/eaabb8df6dd07637f1fe20bb5194e263ec4c045f)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 514A - Chewbaсca and Number - ([7c13622](https://github.com/contests-solution/CagesThrottleUs/commit/7c136224bbc4ab195b532228776598e28384e991)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 282A - Bit++ - ([000b0be](https://github.com/contests-solution/CagesThrottleUs/commit/000b0be4a565ebccc556f278a40e664cc8ff0a76)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1704C - Virus - ([03356fc](https://github.com/contests-solution/CagesThrottleUs/commit/03356fc60c43df21069cfef4fea39d61cdf026df)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add Weekly Contest 517 solution - ([e98c936](https://github.com/contests-solution/CagesThrottleUs/commit/e98c936539f7f6fabb38ee723906533dcc940f35)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 1833. Maximum Ice Cream Bars - ([fcffa50](https://github.com/contests-solution/CagesThrottleUs/commit/fcffa50aee05303f34861d6be10ba0bb368fb8e1)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 1732. Find the Highest Altitude - ([ae85268](https://github.com/contests-solution/CagesThrottleUs/commit/ae8526893ddf7d917c36760e84157f656a5fb0d6)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 127. Word Ladder - ([290e589](https://github.com/contests-solution/CagesThrottleUs/commit/290e589425dc9a43b708ee2528af1ba615c5e15e)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 152. Maximum Product Subarray - ([31d1722](https://github.com/contests-solution/CagesThrottleUs/commit/31d1722f764882714c6d3c9037f1fae8c36b8e49)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 229. Majority Element II - ([9b4b1c7](https://github.com/contests-solution/CagesThrottleUs/commit/9b4b1c709390c4d63afc7d4f59153300b24723af)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 15. 3Sum - ([596a968](https://github.com/contests-solution/CagesThrottleUs/commit/596a968eda8b6c20f0d724c21971756bca61076a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**leetcode**) add 31. Next Permutation - ([b5326d8](https://github.com/contests-solution/CagesThrottleUs/commit/b5326d834c0fc1ec8ee02bdb03adb93dd7db9fdb)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Bug Fixes
+- update template for backward compatibality - ([f131f48](https://github.com/contests-solution/CagesThrottleUs/commit/f131f48bd041f0cf31fb1206c32eb193257a6dc1)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Build system
+- add noexcept for safety on solve() - ([86fc002](https://github.com/contests-solution/CagesThrottleUs/commit/86fc0024b09d044bf6dc187096802bfe300aa09f)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Refactoring
+- (**leetcode**) add 53. Maximum Subarray - ([153a309](https://github.com/contests-solution/CagesThrottleUs/commit/153a3098ca0e21e4fe28e46c41b96cc2f54a385a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- ensure defined() for __clang__ - ([63c36c1](https://github.com/contests-solution/CagesThrottleUs/commit/63c36c1e76bc23475b5f4ce43c49f706d1c5c980)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+#### Miscellaneous Chores
+- disable C++ intellisense agent - ([6069f3b](https://github.com/contests-solution/CagesThrottleUs/commit/6069f3b76a4e11bce3c804ea990f98328544aa08)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- add C++ properties file - ([4c39310](https://github.com/contests-solution/CagesThrottleUs/commit/4c3931095e57bf85888009f1594fdf2a6d3659e2)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- add compiler default path - ([d841765](https://github.com/contests-solution/CagesThrottleUs/commit/d841765634fb96b2654d18d071486c364ea12111)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.18.0](https://github.com/contests-solution/CagesThrottleUs/compare/a09d303c53feaecaede4abc67f76b05372d13c73..1.18.0) - 2026-06-19
 #### Features
 - (**codeforces**) add 1729D - Friends and the Restaurant - ([7fc33a5](https://github.com/contests-solution/CagesThrottleUs/commit/7fc33a5afce5d3ef873fdf69cc406ea1ccf0bc5a)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
