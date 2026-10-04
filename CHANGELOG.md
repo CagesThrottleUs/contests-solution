@@ -2,6 +2,19 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.20.0](https://github.com/contests-solution/CagesThrottleUs/compare/8685cad2114bc14e026328444b1d025490fa90ba..1.20.0) - 2026-08-30
+#### Features
+- (**codeforces**) add 1141A - Game 23 - ([8cabdc7](https://github.com/contests-solution/CagesThrottleUs/commit/8cabdc78fd43a27ea14f897a9ad52937aeb3caff)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 219A - k-String - ([f8835e5](https://github.com/contests-solution/CagesThrottleUs/commit/f8835e5e06548d0753725f131b71b60c5eea2421)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 139A - Petr and Book - ([5e292c2](https://github.com/contests-solution/CagesThrottleUs/commit/5e292c2ecd05a9a9a5d4880e5a6f9e0a5439da14)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1430C - Numbers on Whiteboard - ([6dde061](https://github.com/contests-solution/CagesThrottleUs/commit/6dde0610bdd59b8dc4713954aa64903db89afbe3)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1300B - Assigning to Classes - ([20dd08b](https://github.com/contests-solution/CagesThrottleUs/commit/20dd08b52c6a2ee59be854eb12f1f021ef8d2aa1)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 118A - String Task - ([bf5967f](https://github.com/contests-solution/CagesThrottleUs/commit/bf5967f49d9a954895c43ee6e6597a959a711b49)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1391B - Fix You - ([38a4380](https://github.com/contests-solution/CagesThrottleUs/commit/38a438077cdcb1e73da272ab0055f1f9a64fe939)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+- (**codeforces**) add 1095A - Repeating Cipher - ([8685cad](https://github.com/contests-solution/CagesThrottleUs/commit/8685cad2114bc14e026328444b1d025490fa90ba)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
+
+- - -
+
 ## [1.19.0](https://github.com/contests-solution/CagesThrottleUs/compare/b5326d834c0fc1ec8ee02bdb03adb93dd7db9fdb..1.19.0) - 2026-08-30
 #### Features
 - (**codechef**) add solutions of STARTERS 253 - ([b0f56ac](https://github.com/contests-solution/CagesThrottleUs/commit/b0f56ac1911dd52fc299b84f2f37c7d20c00b71b)) - [@CagesThrottleUs](https://github.com/CagesThrottleUs)
